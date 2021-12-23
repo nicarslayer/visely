@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/visely/static/css/main.9e03dcb8.chunk.css",
-    "main.js": "/visely/static/js/main.c2832088.chunk.js",
-    "main.js.map": "/visely/static/js/main.c2832088.chunk.js.map",
+    "main.css": "/visely/static/css/main.8571ff37.chunk.css",
+    "main.js": "/visely/static/js/main.4f25c110.chunk.js",
+    "main.js.map": "/visely/static/js/main.4f25c110.chunk.js.map",
     "runtime-main.js": "/visely/static/js/runtime-main.1c4fe52e.js",
     "runtime-main.js.map": "/visely/static/js/runtime-main.1c4fe52e.js.map",
     "static/css/2.a95be28f.chunk.css": "/visely/static/css/2.a95be28f.chunk.css",
-    "static/js/2.62a896f4.chunk.js": "/visely/static/js/2.62a896f4.chunk.js",
-    "static/js/2.62a896f4.chunk.js.map": "/visely/static/js/2.62a896f4.chunk.js.map",
+    "static/js/2.196b89e2.chunk.js": "/visely/static/js/2.196b89e2.chunk.js",
+    "static/js/2.196b89e2.chunk.js.map": "/visely/static/js/2.196b89e2.chunk.js.map",
     "static/js/3.053b1f97.chunk.js": "/visely/static/js/3.053b1f97.chunk.js",
     "static/js/3.053b1f97.chunk.js.map": "/visely/static/js/3.053b1f97.chunk.js.map",
     "index.html": "/visely/index.html",
     "static/css/2.a95be28f.chunk.css.map": "/visely/static/css/2.a95be28f.chunk.css.map",
-    "static/css/main.9e03dcb8.chunk.css.map": "/visely/static/css/main.9e03dcb8.chunk.css.map",
-    "static/js/2.62a896f4.chunk.js.LICENSE.txt": "/visely/static/js/2.62a896f4.chunk.js.LICENSE.txt"
+    "static/css/main.8571ff37.chunk.css.map": "/visely/static/css/main.8571ff37.chunk.css.map",
+    "static/js/2.196b89e2.chunk.js.LICENSE.txt": "/visely/static/js/2.196b89e2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1c4fe52e.js",
     "static/css/2.a95be28f.chunk.css",
-    "static/js/2.62a896f4.chunk.js",
-    "static/css/main.9e03dcb8.chunk.css",
-    "static/js/main.c2832088.chunk.js"
+    "static/js/2.196b89e2.chunk.js",
+    "static/css/main.8571ff37.chunk.css",
+    "static/js/main.4f25c110.chunk.js"
   ]
 }
